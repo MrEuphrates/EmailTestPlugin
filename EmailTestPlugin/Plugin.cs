@@ -43,10 +43,11 @@ namespace EmailTestPlugin
             Act.UI.Correspondence.EmailMailMergeInfo emmi = new Act.UI.Correspondence.EmailMailMergeInfo();
             //TODO Email Field Name List is the list of physical field names that have the Email data type - might be usable for the mail merge
             var results = emmi.EmailFieldNameList(application);
-            foreach (string s in results)
-            {
-                MessageBox.Show(s);
-            }
+            //2016-06-09 REH Disabled using the message box to test working with GitHub.
+            //foreach (string s in results)
+            //{
+            //    MessageBox.Show(s);
+            //}
             //MessageBox.Show(application.ApplicationState.CurrentContact.FullName);
             //Act.UI.Correspondence.UICorrespondenceManager uicm = application.UICorrespondenceManager;
             //uicm.WriteEmail(application.ApplicationState.CurrentContact, results);
