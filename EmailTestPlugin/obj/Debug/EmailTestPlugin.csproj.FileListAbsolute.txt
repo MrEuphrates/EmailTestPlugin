@@ -1,0 +1,14 @@
+C:\Development\EmailTest\EmailTestPlugin\EmailTestPlugin\bin\Debug\EmailTestPlugin.dll
+C:\Development\EmailTest\EmailTestPlugin\EmailTestPlugin\bin\Debug\EmailTestPlugin.pdb
+C:\Development\EmailTest\EmailTestPlugin\EmailTestPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\EmailTest\EmailTestPlugin\EmailTestPlugin\obj\Debug\EmailTestPlugin.dll
+C:\Development\EmailTest\EmailTestPlugin\EmailTestPlugin\obj\Debug\EmailTestPlugin.pdb
+C:\Program Files\ACT\Act for Windows\Plugins\EmailTestPlugin.dll
+C:\Program Files\ACT\Act for Windows\Plugins\EmailTestPlugin.pdb
+C:\Development\Program Files\ACT\Act for Windows\Plugins\EmailTestPlugin.dll
+C:\Development\Program Files\ACT\Act for Windows\Plugins\EmailTestPlugin.pdb
+C:\Development\Projects\Playground\EmailTestPlugin\EmailTestPlugin\obj\Debug\EmailTestPlugin.csprojResolveAssemblyReference.cache
+C:\Development\Projects\Playground\EmailTestPlugin\EmailTestPlugin\obj\Debug\EmailTestPlugin.dll
+C:\Development\Projects\Playground\EmailTestPlugin\EmailTestPlugin\obj\Debug\EmailTestPlugin.pdb
+C:\Program Files (x86)\ACT\Act for Windows\Plugins\EmailTestPlugin.dll
+C:\Program Files (x86)\ACT\Act for Windows\Plugins\EmailTestPlugin.pdb
