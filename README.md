@@ -43,4 +43,5 @@ I'm basically copying this example from the GitHub feature documentation.
 I think you should use an '<addr>' element here instead.
 
 ###Commit (SHA) reference###
-Supposedly, this can somehow reference a specific commit: 58459f17e93b7aca0f134949a0389d2799804636
+Supposedly, this can somehow reference a specific commit: 776818ee45d63684aacefa52c9ce6d17c5abd70a
+MrEuphrates@776818ee45d63684aacefa52c9ce6d17c5abd70a
