@@ -6,9 +6,9 @@ Here's some **bold text**.
 Here's some *italic text*.
 Hey, [a link](http://www.compu-tutor.net) to our site!
 
-# An <h1> tag.
-## An <h2> tag.
-###### An <h6> tag.  See the pattern?
+# An h1 tag.
+## An h2 tag.
+###### An h6 tag.  See the pattern?
 _This is also italic_
 __This is also bold__
 
@@ -27,9 +27,11 @@ _Yes, you **can** combine these_
   * Item 3a
   * Item 3b
 
-###Images###
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+###Tables###
+First Header | Second Header
+------------ | -------------
+Content R1C1 | Content R1C2
+Content R2C1 | Content R2C2
 
 ###Blockquotes###
 Proverbs 14:12 (ESV)
