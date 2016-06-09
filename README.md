@@ -41,3 +41,6 @@ Proverbs 14:12 (ESV)
 ###Inline code###
 I'm basically copying this example from the GitHub feature documentation.
 I think you should use an '<addr>' element here instead.
+
+###Commit (SHA) reference###
+Supposedly, this can somehow reference a specific commit: 58459f17e93b7aca0f134949a0389d2799804636
