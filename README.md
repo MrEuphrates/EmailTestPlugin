@@ -1,31 +1,12 @@
-# EmailTestPlugin
 An Act! plugin for sending test emails.  Also, my first GitHub repository.
 Purely for testing and GitHub practice.
 
-Here's some **bold text**.
-Here's some *italic text*.
+Here's some **bold text**.  __This is also bold__
+Here's some *italic text*.  _This is also italic_
 Hey, [a link](http://www.compu-tutor.net) to our site!
 
 # An h1 tag.
-## An h2 tag.
 ###### An h6 tag.  See the pattern?
-_This is also italic_
-__This is also bold__
-
-_Yes, you **can** combine these_
-
-###Unordered list###
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-###Ordered List###
-1. Item 1
-2. Item 2
-3. Item 3
-  * Item 3a
-  * Item 3b
 
 ###Tables###
 First Header | Second Header
@@ -43,5 +24,4 @@ I'm basically copying this example from the GitHub feature documentation.
 I think you should use an '<addr>' element here instead.
 
 ###Commit (SHA) reference###
-Supposedly, this can somehow reference a specific commit: 776818ee45d63684aacefa52c9ce6d17c5abd70a
-MrEuphrates@776818ee45d63684aacefa52c9ce6d17c5abd70a
+Supposedly, this can somehow reference a specific commit: 828db9707301eb9ee021ca4de5cf57ff2367478f
